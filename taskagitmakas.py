@@ -1,5 +1,7 @@
 #taş kağıt makas oyunu, mustafa buyukdereli 2022
 
+# wwww.akiss.org
+
 #Kağıt taşı sarar, makas kağıdı keser ve taş makası ezer!
 
 import random
